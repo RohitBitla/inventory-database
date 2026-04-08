@@ -157,7 +157,7 @@ Adding an index on `supplier_id` improves query performance for joins and groupi
 
 ## Deployment
 
-* Backend: [https://inventory-db-backend.onrender.com](https://inventory-database-xpj0.onrender.com)
+* Backend: [https://inventory-database-xpj0.onrender.com]
 
 ---
 
